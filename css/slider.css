@@ -1,0 +1,14 @@
+/*--------- slider ---------*/
+#slider { width:100%; height:calc(100vw * (9 / 16)); position:relative; margin-bottom:8px;}
+.slider { width:100%; height:calc(100vw * (9 / 16)); overflow:visible !important;}
+.slider_img {width:100%; height:calc(100vw * (9 / 16))}
+/* .items { display:none;background-size: contain;} */
+
+/* 
+.pagination { position:absolute; bottom:0px; left:0px; display:inline-block; z-index:60;width:515px; padding-left:435px; background:url(../images/pagination-bg.gif) 0 11px no-repeat;}
+.pagination li {float:left; margin-right:3px;}
+.pagination a { display:block; width:25px; height:25px; background:url(../images/pagination.png) right 0 no-repeat; }
+.pagination li.current a, .pagination li:hover a { background-position: 0 0;}
+
+.banner {position:absolute; z-index:100; top:516px; left:0px; width:950px; font-size:26px; line-height:33px; color:#85a09d; font-family: 'Open Sans', sans-serif; font-weight:800; text-align:center; text-transform:uppercase; letter-spacing:-1px; background:#fff;}
+.banner span {display:block; margin-top:-4px;} */
